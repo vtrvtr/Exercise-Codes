@@ -1,0 +1,553 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"infro",
+				"infograficos"
+			],
+			[
+				"mx",
+				"max-height"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"blogdo",
+				"blogdolucas"
+			],
+			[
+				"fluid",
+				"fluidvids"
+			],
+			[
+				"blogda",
+				"blogdajuliana"
+			],
+			[
+				"text",
+				"textblogs"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fai",
+				"faixasexclusivas"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"magin",
+				"margin-left"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"text-transf",
+				"text-transform:   (property)"
+			],
+			[
+				"size",
+				"background-size"
+			],
+			[
+				"tab",
+				"table-column"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"min",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"serif",
+				"sans-serif  (value)"
+			],
+			[
+				"trn",
+				"transporte"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"PR",
+				"PROJECT_PATH"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"trans",
+				"transportsite"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"MEDI",
+				"MEDIA_URL"
+			],
+			[
+				"viw",
+				"views"
+			],
+			[
+				"search",
+				"search_results"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Http",
+				"Http404"
+			],
+			[
+				"display",
+				"display_meta"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Book",
+				"BookAdmin"
+			],
+			[
+				"pub",
+				"publication_date"
+			],
+			[
+				"Author",
+				"AuthorAdmin"
+			],
+			[
+				"offset",
+				"offset"
+			],
+			[
+				"o",
+				"offset"
+			],
+			[
+				"hours",
+				"hours_ahead"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: comment"
+			],
+			[
+				"Snippet: comm",
+				"Snippet: comment"
+			],
+			[
+				"Snippet: comme",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"Snippet: unc",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"Snippet: stai",
+				"Snippet: static"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Code/hangman-wordlist",
+		"/E/Documents/cartao.txt",
+		"/E/Python27/Lib/distutils/cygwinccompiler.py",
+		"/E/Python27/Lib/distutils/msvc9compiler.py",
+		"/E/Statistics/week 6/ProblemSet6/cityTemps.txt",
+		"/E/Statistics/Week 1/lowandhigh.py",
+		"/E/site/transportsite/transporte/website/admin.py",
+		"/E/site/transportsite/transporte/static/videos/arthur.webm",
+		"/E/site/mezzanine/mezzaninetest/templates/pages/menus/tree.html",
+		"/E/site/transportsite/transporte/templates/home.html",
+		"/E/site/testsite/rahmaninov/static/sass/style-wide.scss",
+		"/E/site/testsite/rahmaninov/static/sass/style-mobile.scss",
+		"/E/site/testsite/rahmaninov/static/sass/partials/_icons.scss",
+		"/E/site/transportsite/transporte/static/css/styles.css",
+		"/E/site/transportsite/transporte/static/admin/js/admin/DateTimeShortcuts.js",
+		"/E/site/transportsite/transporte/static/admin/js/timeparse.js",
+		"/E/site/testsite/rahmaninov/apps/website/templates/people/staff.html",
+		"/E/site/transportsite/transporte/static/less/stacked.less",
+		"/E/site/testsite/rahmaninov/sitemaps.py",
+		"/E/site/testsite/rahmaninov/apps/website/templatetags/site_age.py",
+		"/E/site/testsite/rahmaninov/settings/live.py",
+		"/E/site/transportsite/transporte/db.sqlite3",
+		"/E/site/transportsite/transporte/static/admin/js/admin/RelatedObjectLookups.js",
+		"/E/site/transportsite/transporte/static/website/New Text Document.txt",
+		"/E/Documents/livestreamer.txt",
+		"/E/Documents/Run as date/readme.txt",
+		"/C/Users/vtrvtr/AppData/Local/Keysticks.net/Keysticks/Message Log.txt",
+		"/E/Documents/dns.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/dota/cfg/autoexec.cfg",
+		"/C/Users/vtrvtr/AppData/Local/Temp/Rar$DIa0.713/README.txt",
+		"/E/Documents/NOSTROMO disable macro/invisible.vbs",
+		"/C/Users/vtrvtr/AppData/Roaming/livestreamer/livestreamerrc",
+		"/E/Documents/NOSTROMO disable macro/enable nostromo.bat",
+		"/C/Users/vtrvtr/AppData/Local/Temp/Rar$DIa0.265/README.txt",
+		"/C/Users/vtrvtr/AppData/Local/Temp/Rar$DIa0.472/ReadMe.txt",
+		"/C/Users/vtrvtr/Desktop/enable nostromo.bat",
+		"/E/Downloads/Yu Yu Hakusho Eps. 1-112 Complete [BluRay][960p][Dual Audio]/Torrent downloaded from Demonoid.com.txt",
+		"/C/AdwCleaner/AdwCleaner[S1].txt",
+		"/C/Users/vtrvtr/Documents/EasyNetMonitor/Log/2014-12-17.txt",
+		"/E/Documents/virtua120mbpacoteprotocolo",
+		"/C/Users/vtrvtr/Documents/Bioware/Dragon Age Inquisition/Save/ProfileOptions_profile",
+		"/E/Documents/vivo-acompanhamentoinstalacaovivo.txt",
+		"/E/Documents/vivonúmerodalinhavivo",
+		"/E/Documents/vivoordemdeservico (2).txt",
+		"/E/Documents/vivoordemdeservico.txt",
+		"/C/Users/vtrvtr/AppData/Local/Temp/Rar$DIa0.116/Password.txt",
+		"/E/Games/Dragon Age Inquisition DELUXE EDITION/__Installer/DLC/Read Me.txt",
+		"/E/Downloads/incomplete/3DMGAME-DAI.Crack.Only.v2.For.Update.2-3DM/说明.txt",
+		"/E/Games/Dragon Age Inquisition DELUXE EDITION/3dmgame.dll",
+		"/E/Downloads/incomplete/GMT-MAX.ORG_Dragon_Age_Inquisition_Crack_3DM_v.2.0/Readme.txt",
+		"/C/Users/vtrvtr/AppData/Roaming/livestreamer/livestreamerrc.txt",
+		"/C/Users/vtrvtr/AppData/Roaming/livestreamer/livestreamerrc/config.txt",
+		"/C/Users/vtrvtr/AppData/Roaming/livestreamer/config.txt",
+		"/C/Users/vtrvtr/AppData/Roaming/livestreamer/cli.json",
+		"/E/Statistics/week 5/ProblemSet5/mit_map.txt",
+		"/E/Statistics/week 5/ProblemSet5/mit_map - Copy.txt",
+		"/E/Statistics/week 5/ProblemSet5/mit_map - Copy (2).txt",
+		"/E/Documents/protocolovivo.txt",
+		"/E/Documents/protocolovivoinstalacao.txt",
+		"/E/Documents/ordemdeservico.txt",
+		"/E/Documents/acompanhamentoinstalacaovivo.txt",
+		"/G/django-portable-master/development/transporte/website/static/css/screen.css",
+		"/G/django-portable-master/development/transporte/website/static/css/grayscale.css",
+		"/G/django-portable-master/development/transporte/templates/home.html",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/dota/Dota 2 changer/app/version.txt",
+		"/C/Users/vtrvtr/AppData/Local/Temp/Rar$DIa0.686/huds.txt",
+		"/C/Users/vtrvtr/AppData/Local/Temp/Rar$DIa0.905/deletemods.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/dota/Dota 2 changer/app/deletemods.txt",
+		"/G/django-portable-master/development/transporte/templates/blogdajuliana.html",
+		"/G/django-portable-master/development/tools/virtualenvs/site/Lib/orig-prefix.txt",
+		"/G/django-portable-master/development/transporte/templates/base.html",
+		"/G/django-portable-master/development/transporte/templates/blogdolucas.html",
+		"/G/django-portable-master/development/transporte/transporte/urls.py",
+		"/G/django-portable-master/development/transporte/website/static/css/bootstrap.min.css",
+		"/G/django-portable-master/development/transporte/transporte/django",
+		"/G/django-portable-master/development/transporte/website/static/css/bootstrap.min.js",
+		"/E/Statistics/Week 4/ProblemSet4/ProblemSet4/ps3b.pyc",
+		"/E/Documents/Server files/sites enabled/transporte",
+		"/E/Documents/Server files/settingsOld.py",
+		"/E/Documents/Server files/settings.py",
+		"/E/Documents/Server files/django",
+		"/E/Documents/Server files/gunicorn.conf",
+		"/E/Documents/Server files/transportsite",
+		"/E/Documents/Server files/sites enabled/settings.py",
+		"/E/Documents/Server files/sites available/transporte",
+		"/E/Documents/Server files/settingstransportsite.py",
+		"/E/Documents/Server files/sites enabled/transportsite",
+		"/G/django-portable-master/development/transporte/wsgi.py",
+		"/G/django-portable-master/development/transporte/urls.py",
+		"/G/django-portable-master/development/transporte/views.py",
+		"/G/django-portable-master/development/transporte/website/views.py",
+		"/G/django-portable-master/development/transporte/transporte/settings.py",
+		"/E/site/transportsite/transporte/transporte/settings.py",
+		"/G/django-portable-master/development/transporte/settings.py",
+		"/E/site/transportsite/transporte/transporte/wsgi.py",
+		"/E/site/transportsite/transporte/transporte/urls.py",
+		"/G/django-portable-master/development/transporte/transporte/views.py",
+		"/G/django-portable-master/development/transporte/templates/blogs.html",
+		"/G/django-portable-master/development/transporte/templates/blogdoarthur.html",
+		"/C/Users/vtrvtr/AppData/Local/Temp/fz3temp-1/grayscale.css",
+		"/E/Videos/Projetos em TV - Mônica/Segundo Video/Videos final/lightbox/index.html",
+		"/G/django-portable-master/development/transporte/website/static/css/lightbox.css",
+		"/E/Videos/Projetos em TV - Mônica/Segundo Video/Videos final/lightbox-master/examples/dark.html",
+		"/E/Videos/Projetos em TV - Mônica/Segundo Video/Videos final/lightbox-master/examples/index.html",
+		"/E/Videos/Projetos em TV - Mônica/Segundo Video/Videos final/lightbox-master/LICENSE.txt",
+		"/E/Videos/Projetos em TV - Mônica/Segundo Video/Videos final/lightbox-master/Gruntfile.js",
+		"/E/Videos/Projetos em TV - Mônica/Segundo Video/Videos final/lightbox-master/README.md",
+		"/G/django-portable-master/development/transporte/website/static/js/script.js",
+		"/E/Videos/Projetos em TV - Mônica/Segundo Video/Videos final/lightbox-master/examples/themes/dark.css",
+		"/E/Videos/Projetos em TV - Mônica/Segundo Video/Videos final/startbootstrap-2-col-portfolio-1.0.0/index.html",
+		"/E/site/transportsite/transporte/website/static/css/grayscale.css",
+		"/E/site/transportsite/transporte/templates/blogdolucas.html",
+		"/E/site/transportsite/transporte/templates/blogdoarthur.html",
+		"/E/site/transportsite/transporte/templates/blogs.html",
+		"/E/site/transportsite/transporte/templates/blogdajuliana.html",
+		"/C/Users/vtrvtr/AppData/Roaming/Sublime Text 3/Packages/User/HTML (Django).sublime-settings",
+		"/G/django-portable-master/development/tools/virtualenvs/site/Scripts/activate",
+		"/G/django-portable-master/development/tools/virtualenvs/site/Scripts/activate.ps1",
+		"/G/django-portable-master/development/tools/git-completion.bash_modification.txt",
+		"/G/django-portable-master/development/tools/virtualenvwrapper.sh_modification.txt",
+		"/G/django-portable-master/development/tools/PortablePython/App/Scripts/virtualenvwrapper.sh",
+		"/G/django-portable-master/development/tools/PortableGit/etc/git-completion.bash",
+		"/G/django-portable-master/development/%VIRTUALENVS_ROOT%siteLiborig-prefix.txt",
+		"/G/django-portable-master/development/tools/PortablePython/App/Scripts/virtualenv.exe",
+		"/G/django-portable-master/development/tools/PortableGit/to_make_git_create_the_folder.txt",
+		"/E/site/transportsite/transporte/website/static/js/grayscale.js",
+		"/E/site/transportsite/transporte/templates/base.html",
+		"/E/Downloads/[HorribleSubs]_Akame_ga_Kill!_-_21_[1080p]/fluidvids.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"E:\\site\\mezzanine\\mezzaninetest",
+			"E:\\site\\testsite\\rahmaninov"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GET_BUILD_VERSION",
+			"VERSION",
+			"400px",
+			"à pé",
+			"xxx",
+			"function workon",
+			"brand",
+			"header",
+			"collap",
+			"page-scro",
+			"top-nav",
+			"sleep",
+			"contact",
+			"padding-top",
+			"row",
+			"contact",
+			"150",
+			"container",
+			"about",
+			"col",
+			"download-section",
+			"-",
+			"vídeos",
+			"videos",
+			"backgroun",
+			"backgrou",
+			"offset",
+			"brand",
+			"col-md-8 ",
+			"col-md",
+			"transporte",
+			"col-lg",
+			"col-lg-8",
+			"denied",
+			"show your work",
+			"SITE_TITLE",
+			"title",
+			"site_title",
+			"title",
+			"site_title",
+			"navbar-brand",
+			"Mezzanine",
+			"navbar-brand",
+			"mezzanine",
+			"png",
+			"img src",
+			"ping"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"a pé",
+			"textos",
+			"abertura",
+			"blog-section",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "hangman[easy]-instructions.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"home.t",
+				"transporte\\templates\\home.html"
+			],
+			[
+				"livestreamer",
+				"E:\\Documents\\livestreamer.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

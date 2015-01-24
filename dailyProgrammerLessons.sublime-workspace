@@ -1,0 +1,1878 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"negati",
+				"negativeMod"
+			],
+			[
+				"canno",
+				"cannonWords"
+			],
+			[
+				"prime",
+				"prime_List"
+			],
+			[
+				"di",
+				"divisor"
+			],
+			[
+				"primes",
+				"primes	statement"
+			],
+			[
+				"True",
+				"True	keyword"
+			],
+			[
+				"num",
+				"number_List	statement"
+			],
+			[
+				"nu",
+				"number_List"
+			],
+			[
+				"is",
+				"isbn_number"
+			],
+			[
+				"numb",
+				"number_List"
+			],
+			[
+				"code",
+				"code"
+			],
+			[
+				"revers",
+				"reversed	class"
+			],
+			[
+				"number",
+				"number"
+			],
+			[
+				"index",
+				"index	statement"
+			],
+			[
+				"Rail",
+				"railFenceCypher	function"
+			],
+			[
+				"split",
+				"splitOriginLinks"
+			],
+			[
+				"path",
+				"pathO1"
+			],
+			[
+				"trans",
+				"translate	function"
+			],
+			[
+				"tran",
+				"translate	function"
+			],
+			[
+				"spli",
+				"split"
+			],
+			[
+				"spl",
+				"splitted"
+			],
+			[
+				"list",
+				"list"
+			],
+			[
+				"joined",
+				"joined2"
+			],
+			[
+				"fist",
+				"DEFAULT_FILE_STORAGE"
+			],
+			[
+				"dest",
+				"destPath"
+			],
+			[
+				"sec",
+				"secondPath	statement"
+			],
+			[
+				"sym",
+				"symbolicLink"
+			],
+			[
+				"join",
+				"joined"
+			],
+			[
+				"first",
+				"firstPath"
+			],
+			[
+				"splitt",
+				"splittedPath"
+			],
+			[
+				"links",
+				"links[:-1"
+			],
+			[
+				"second",
+				"secondPath"
+			],
+			[
+				"firs",
+				"firstPath"
+			],
+			[
+				"origi",
+				"originPath"
+			],
+			[
+				"oring",
+				"originList"
+			],
+			[
+				"originList",
+				"originList"
+			],
+			[
+				"final",
+				"finalPath	statement"
+			],
+			[
+				"single",
+				"singleLink"
+			],
+			[
+				"symbo",
+				"symbolicLink"
+			],
+			[
+				"lists",
+				"lists	forflow"
+			],
+			[
+				"paths",
+				"paths	param"
+			],
+			[
+				"Shpes",
+				"ShapesFit"
+			],
+			[
+				"global",
+				"globals	function"
+			],
+			[
+				"sp",
+				"sphere"
+			],
+			[
+				"elif",
+				"elif"
+			],
+			[
+				"sph",
+				"sphere"
+			],
+			[
+				"Shpe",
+				"Sphere"
+			],
+			[
+				"shapes",
+				"ShapesFit	function"
+			],
+			[
+				"sphe",
+				"shpere	statement"
+			],
+			[
+				"cube",
+				"cube"
+			],
+			[
+				"volume",
+				"volume"
+			],
+			[
+				"with",
+				"width"
+			],
+			[
+				"com",
+				"compriment"
+			],
+			[
+				"cover",
+				"convertToRoman	function"
+			],
+			[
+				"to",
+				"toRoman	function"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"ape",
+				"append(1000"
+			],
+			[
+				"numbers",
+				"numbersList"
+			],
+			[
+				"Roman",
+				"RomanNumbers"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"Syn",
+				"SyntaxError	class"
+			],
+			[
+				"new",
+				"newWord"
+			],
+			[
+				"word",
+				"word"
+			],
+			[
+				"guessed",
+				"guessedLetters"
+			],
+			[
+				"guesse",
+				"guessedLetters"
+			],
+			[
+				"random",
+				"randomWord"
+			],
+			[
+				"Random",
+				"randomword"
+			],
+			[
+				"spac",
+				"spacedWord"
+			],
+			[
+				"filter",
+				"filteredList"
+			],
+			[
+				"han",
+				"hangman-wordlist.txt"
+			],
+			[
+				"hang",
+				"hangman-wordlist.txt"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"infro",
+				"infograficos"
+			],
+			[
+				"mx",
+				"max-height"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"blogdo",
+				"blogdolucas"
+			],
+			[
+				"fluid",
+				"fluidvids"
+			],
+			[
+				"blogda",
+				"blogdajuliana"
+			],
+			[
+				"text",
+				"textblogs"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fai",
+				"faixasexclusivas"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"magin",
+				"margin-left"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"text-transf",
+				"text-transform:   (property)"
+			],
+			[
+				"size",
+				"background-size"
+			],
+			[
+				"tab",
+				"table-column"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"min",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"serif",
+				"sans-serif  (value)"
+			],
+			[
+				"trn",
+				"transporte"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"PR",
+				"PROJECT_PATH"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"MEDI",
+				"MEDIA_URL"
+			],
+			[
+				"viw",
+				"views"
+			],
+			[
+				"search",
+				"search_results"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Http",
+				"Http404"
+			],
+			[
+				"display",
+				"display_meta"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Book",
+				"BookAdmin"
+			],
+			[
+				"pub",
+				"publication_date"
+			],
+			[
+				"Author",
+				"AuthorAdmin"
+			],
+			[
+				"offset",
+				"offset"
+			],
+			[
+				"o",
+				"offset"
+			],
+			[
+				"hours",
+				"hours_ahead"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/Documents/livestreamer.txt",
+			"settings":
+			{
+				"buffer_size": 2855,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "baseNegativeNumbers[inter]/intructions.txt",
+			"settings":
+			{
+				"buffer_size": 2310,
+				"line_ending": "Windows",
+				"name": "(Intermediate): Base-Negative Numbers"
+			}
+		},
+		{
+			"file": "baseNegativeNumbers[inter]/code.py",
+			"settings":
+			{
+				"buffer_size": 557,
+				"line_ending": "Windows",
+				"name": "def binaryConversion(number):"
+			}
+		},
+		{
+			"contents": "\n***Repl Closed***\n",
+			"settings":
+			{
+				"buffer_size": 19,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "E:\\Python27\\python.EXE: can't open file '$file_basename': [Errno 2] No such file or directory\n\n***Repl Closed***\ndivmod(10, 2)\nprint divmod(10, 2)\n",
+			"settings":
+			{
+				"buffer_size": 147,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"AUTOFORM",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"show erro",
+				"Anaconda: Show error list"
+			],
+			[
+				"show ",
+				"Anaconda: Show error list"
+			],
+			[
+				"show err",
+				"Anaconda: Show error list"
+			],
+			[
+				"disable li",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"show erros",
+				"Anaconda: Show error list"
+			],
+			[
+				"anaconda",
+				"Anaconda: Show error list"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: comment"
+			],
+			[
+				"Snippet: comm",
+				"Snippet: comment"
+			],
+			[
+				"Snippet: comme",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"Snippet: unc",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"Snippet: stai",
+				"Snippet: static"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/site/portfolio/manage.py",
+		"/E/Documents/protocoloamericanastrocapersiana.txt",
+		"/E/Documents/protocoloAmericanasTrocaPersianaExternoCartao.txt",
+		"/E/Code/CannonWords[easy]/code.py",
+		"/E/Code/CannonWords[easy]/instructions.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/dota/cfg/autoexec.cfg",
+		"/E/Documents/OpenDownloaders.au3",
+		"/E/Code/divisiblePrime[hard]/code.py",
+		"/E/Code/divisiblePrime[hard]/divisiblePrime[hard].txt",
+		"/E/Documents/cartao.txt",
+		"/E/Code/ISBN regenerator[easy]/instructions.txt",
+		"/E/Code/ISBN regenerator[easy]/code.py",
+		"/E/Code/railFenceCypher[inter]/codeSingleLine",
+		"/E/Code/railFenceCypher[inter]/instructions.txt",
+		"/E/Documents/startKeySticks.bat",
+		"/E/Documents/keysticksautoit.au3",
+		"/E/Documents/dns.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/dota/cfg/config.cfg",
+		"/E/Downloads/dotabackup/autoexec3.cfg",
+		"/C/Users/vtrvtr/AppData/Local/Keysticks.net/Keysticks/Message Log.txt",
+		"/E/Downloads/dotabackup/autoexec.cfg",
+		"/E/Downloads/dotabackup/autoexec2.cfg",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/dota/cfg/KEYBINDINGS.cfg",
+		"/C/Users/vtrvtr/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/vtrvtr/AppData/Roaming/CouchPotato/application/CouchPotato-2.6.1.win32/couchpotato/core/downloaders/utorrent.py",
+		"/C/Users/vtrvtr/AppData/Roaming/uTorrent/webui.js",
+		"/E/Code/railFenceCypher[inter]/code.py",
+		"/E/Code/symbolicLink[easy]/instructions.txt",
+		"/E/Code/symbolicLink[easy]/code.py",
+		"/E/Documents/startKeySticksAutoIt.bat",
+		"/E/Documents/nao.txt",
+		"/E/Documents/No classic.txt",
+		"/E/Documents/newbreed.txt",
+		"/E/Code/coneSquareBar[easy]/54b7c1bf-ba53-447b-9ee6-653028791426.dmp",
+		"/E/Code/Hangman/hangman-wordlist",
+		"/E/Code/Hangman/hangman[easy]code.py",
+		"/E/Code/Hangman/hangman-wordlist.txt",
+		"/E/Code/Hangman/hangman.sublime-project",
+		"/E/Code/Hangman/hangman[easy]code",
+		"/E/Code/Destringification[easy]/destringfication.py",
+		"/E/Code/coneSquareBar[easy]/coneSquareBar[easy]Code.py",
+		"/E/Code/coneSquareBar[easy]/instructions.txt",
+		"/E/Code/Destringification[easy]/instructions.txt",
+		"/E/Code/coneSquareBar[easy]/coneSquareBar[easy]Code",
+		"/E/Code/coneSquareBar[easy]/9c290665-69d3-48c5-bb37-48082f689406.dmp",
+		"/E/Documents/livestreamer.txt",
+		"/E/Statistics/week 5/ProblemSet5/ps5.py",
+		"/E/Statistics/week 5/ProblemSet5/graph.py",
+		"/E/Code/Romannumbers[inter]/romannumbers.py",
+		"/E/Code/Romannumbers[inter]/instructions.txt",
+		"/E/Documents/protocolonetvirtuareclamacaodepreço.txt",
+		"/E/Documents/virtua120mbpacoteprotocolo",
+		"/E/Statistics/Week 3/ProblemSet3/ps3b.py",
+		"/E/Documents/Cursinho/Dropbox/pset1/greedy2.c",
+		"/E/Statistics/week 5/ProblemSet5/graph.pyc",
+		"/E/Code/hangman-wordlist",
+		"/E/Code/hangman[easy]code.py",
+		"/E/Code/hangman-wordlist.txt",
+		"/C/Users/vtrvtr/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/vtrvtr/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/vtrvtr/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/vtrvtr/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/E/Python27/Lib/distutils/cygwinccompiler.py",
+		"/E/Python27/Lib/distutils/msvc9compiler.py",
+		"/E/Statistics/week 6/ProblemSet6/cityTemps.txt",
+		"/E/Statistics/Week 1/lowandhigh.py",
+		"/E/site/transportsite/transporte/website/admin.py",
+		"/E/site/transportsite/transporte/static/videos/arthur.webm",
+		"/E/site/mezzanine/mezzaninetest/templates/pages/menus/tree.html",
+		"/E/site/transportsite/transporte/templates/home.html",
+		"/E/site/testsite/rahmaninov/static/sass/style-wide.scss",
+		"/E/site/testsite/rahmaninov/static/sass/style-mobile.scss",
+		"/E/site/testsite/rahmaninov/static/sass/partials/_icons.scss",
+		"/E/site/transportsite/transporte/static/css/styles.css",
+		"/E/site/transportsite/transporte/static/admin/js/admin/DateTimeShortcuts.js",
+		"/E/site/transportsite/transporte/static/admin/js/timeparse.js",
+		"/E/site/testsite/rahmaninov/apps/website/templates/people/staff.html",
+		"/E/site/transportsite/transporte/static/less/stacked.less",
+		"/E/site/testsite/rahmaninov/sitemaps.py",
+		"/E/site/testsite/rahmaninov/apps/website/templatetags/site_age.py",
+		"/E/site/testsite/rahmaninov/settings/live.py",
+		"/E/site/transportsite/transporte/db.sqlite3",
+		"/E/site/transportsite/transporte/static/admin/js/admin/RelatedObjectLookups.js",
+		"/E/site/transportsite/transporte/static/website/New Text Document.txt",
+		"/E/Documents/Run as date/readme.txt",
+		"/C/Users/vtrvtr/AppData/Local/Temp/Rar$DIa0.713/README.txt",
+		"/E/Documents/NOSTROMO disable macro/invisible.vbs",
+		"/C/Users/vtrvtr/AppData/Roaming/livestreamer/livestreamerrc",
+		"/E/Documents/NOSTROMO disable macro/enable nostromo.bat",
+		"/C/Users/vtrvtr/AppData/Local/Temp/Rar$DIa0.265/README.txt",
+		"/C/Users/vtrvtr/AppData/Local/Temp/Rar$DIa0.472/ReadMe.txt",
+		"/C/Users/vtrvtr/Desktop/enable nostromo.bat",
+		"/E/Downloads/Yu Yu Hakusho Eps. 1-112 Complete [BluRay][960p][Dual Audio]/Torrent downloaded from Demonoid.com.txt",
+		"/C/AdwCleaner/AdwCleaner[S1].txt",
+		"/C/Users/vtrvtr/Documents/EasyNetMonitor/Log/2014-12-17.txt",
+		"/C/Users/vtrvtr/Documents/Bioware/Dragon Age Inquisition/Save/ProfileOptions_profile",
+		"/E/Documents/vivo-acompanhamentoinstalacaovivo.txt",
+		"/E/Documents/vivonúmerodalinhavivo",
+		"/E/Documents/vivoordemdeservico (2).txt",
+		"/E/Documents/vivoordemdeservico.txt",
+		"/C/Users/vtrvtr/AppData/Local/Temp/Rar$DIa0.116/Password.txt",
+		"/E/Games/Dragon Age Inquisition DELUXE EDITION/__Installer/DLC/Read Me.txt",
+		"/E/Downloads/incomplete/3DMGAME-DAI.Crack.Only.v2.For.Update.2-3DM/说明.txt",
+		"/E/Games/Dragon Age Inquisition DELUXE EDITION/3dmgame.dll",
+		"/E/Downloads/incomplete/GMT-MAX.ORG_Dragon_Age_Inquisition_Crack_3DM_v.2.0/Readme.txt",
+		"/C/Users/vtrvtr/AppData/Roaming/livestreamer/livestreamerrc.txt",
+		"/C/Users/vtrvtr/AppData/Roaming/livestreamer/livestreamerrc/config.txt",
+		"/C/Users/vtrvtr/AppData/Roaming/livestreamer/config.txt",
+		"/C/Users/vtrvtr/AppData/Roaming/livestreamer/cli.json",
+		"/E/Statistics/week 5/ProblemSet5/mit_map.txt",
+		"/E/Statistics/week 5/ProblemSet5/mit_map - Copy.txt",
+		"/E/Statistics/week 5/ProblemSet5/mit_map - Copy (2).txt",
+		"/E/Documents/protocolovivo.txt",
+		"/E/Documents/protocolovivoinstalacao.txt",
+		"/E/Documents/ordemdeservico.txt",
+		"/E/Documents/acompanhamentoinstalacaovivo.txt",
+		"/G/django-portable-master/development/transporte/website/static/css/screen.css",
+		"/G/django-portable-master/development/transporte/website/static/css/grayscale.css",
+		"/G/django-portable-master/development/transporte/templates/home.html",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/dota/Dota 2 changer/app/version.txt",
+		"/C/Users/vtrvtr/AppData/Local/Temp/Rar$DIa0.686/huds.txt",
+		"/C/Users/vtrvtr/AppData/Local/Temp/Rar$DIa0.905/deletemods.txt",
+		"/E/SteamLibrary/steamapps/common/dota 2 beta/dota/Dota 2 changer/app/deletemods.txt",
+		"/G/django-portable-master/development/transporte/templates/blogdajuliana.html",
+		"/G/django-portable-master/development/tools/virtualenvs/site/Lib/orig-prefix.txt",
+		"/G/django-portable-master/development/transporte/templates/base.html",
+		"/G/django-portable-master/development/transporte/templates/blogdolucas.html",
+		"/G/django-portable-master/development/transporte/transporte/urls.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"E:\\site\\mezzanine\\mezzaninetest",
+			"E:\\site\\testsite\\rahmaninov"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"[",
+			"]",
+			"[",
+			"\n            else:\n                index += 1",
+			"print",
+			"links",
+			"oinTwoPaths(link, links[-1])",
+			"\n	",
+			"':')\n",
+			"format",
+			"3999",
+			"=",
+			"def playHangman(wordlist, numberOfLetters = 5):",
+			"\")\n",
+			"GET_BUILD_VERSION",
+			"VERSION",
+			"400px",
+			"à pé",
+			"xxx",
+			"function workon",
+			"brand",
+			"header",
+			"collap",
+			"page-scro",
+			"top-nav",
+			"sleep",
+			"contact",
+			"padding-top",
+			"row",
+			"contact",
+			"150",
+			"container",
+			"about",
+			"col",
+			"download-section",
+			"-",
+			"vídeos",
+			"videos",
+			"backgroun",
+			"backgrou",
+			"offset",
+			"brand",
+			"col-md-8 ",
+			"col-md",
+			"transporte",
+			"col-lg",
+			"col-lg-8",
+			"denied",
+			"show your work",
+			"SITE_TITLE",
+			"title",
+			"site_title",
+			"title",
+			"site_title",
+			"navbar-brand",
+			"Mezzanine",
+			"navbar-brand",
+			"mezzanine",
+			"png",
+			"img src",
+			"ping"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{",
+			"}",
+			"{",
+			"print",
+			":",
+			"a pé",
+			"textos",
+			"abertura",
+			"blog-section",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/Documents/livestreamer.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								646,
+								646
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Djaneiro-master/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "baseNegativeNumbers[inter]/intructions.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								843,
+								843
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "(Intermediate): Base-Negative Numbers",
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Djaneiro-master/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "baseNegativeNumbers[inter]/code.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								446,
+								446
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "def binaryConversion(number):",
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Djaneiro-master/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": true,
+							"auto_indent": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "0b6b4b61bfa645e8a7ee282c5b50ddb8",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": true,
+							"auto_indent": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "963730e9303841659f972162e6e10099",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-u",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.640669070501,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 179.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "dailyProgrammerLessons.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"home.t",
+				"transporte\\templates\\home.html"
+			],
+			[
+				"livestreamer",
+				"E:\\Documents\\livestreamer.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\site\\portfolio\\portfolio-workspace.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,8 @@
+def LoadList(wordlist):
+	listOfWords = tuple(open(wordlist, 'r'))
+	return listOfWords
+
+print LoadList("E:\code\hangman-wordlist.txt")
+
+
+

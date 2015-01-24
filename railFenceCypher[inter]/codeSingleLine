@@ -1,0 +1,72 @@
+import itertools
+# mode, n_lines, text = 'dec 4 ayylmao'.split()
+# n_lines = int(n_lines)
+
+# lines = [[] for _ in range(n_lines)]
+
+# l = n_lines - 1
+# for i in range(len(text)):
+#     lines[abs((i-l)%(2*l)-l)] += [i]
+# mapping = {i: v for i, v in enumerate(i for line in lines for i in line)}
+
+# if mode == "dec":
+
+# mapping = {v:k for k, v in mapping.items()} # inverse the mapping
+
+# print("".join(text[mapping[i]] for i in range(len(text))))
+
+
+def railFenceCypher(a, number):
+    l = [[] for _ in range(number)]
+    index = 0
+    reversedindex = number - 1
+    while index <= len(list(a)) - 1:
+        for line in l:
+            if index >= len(a):
+                break
+            else:
+                line.append(a[index])
+                index += 1
+        for line in itertools.islice(reversed(l), 1, number - 1):
+            if index >= len(a):
+                break
+            else:
+                line.append(a[index])
+                index += 1
+        print l
+    return ''.join(word for minilist in l for word in minilist)
+
+
+def decode(code, number):
+    s = list(code)
+    l = [[] for _ in range(number)]
+    num_letters = 1
+    index = 0
+    decoded = []
+    while index <= len(list(code)) - 1:
+        for line in l:
+            if index >= len(code):
+                break
+            else:
+                line.append(index)
+                index += 1
+        for line in itertools.islice(reversed(l), 1, number - 1):
+            if index >= len(code):
+                break
+            else:
+                line.append(index)
+                index += 1
+    print l
+    for lists in l:
+        for item in lists:
+            decoded.append(code[item])
+    return decoded
+index = railFenceCypher('mynameisvitor', 3)
+
+print len(index)
+print 'mynameisvitor'
+print railFenceCypher('THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG', 4)
+print decode(index, 3)
+# print 'THISISMYNAME'
+# print len('REDDITCOMRDAILYPROGRAMMER')
+# print decode(index, 4)
