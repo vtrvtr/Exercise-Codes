@@ -10,7 +10,6 @@ def fine_tunnint(chain, finalN):
     print chain
     while chain[-1] < finalN:
         rest = finalN - chain[-1]
-        print rest
         for n in reversed(chain):
             if n < rest:
                 chain.append(n + chain[-1])
