@@ -1,0 +1,5 @@
+You will accept two numbers, w and h, separated by a space. These are to be the width and height of the image in characters, with the top-left being (0, 0). You will then accept a grid of ASCII characters of size w*h. Finally you will accept two more numbers, x and y, and a character c. x and y are the co-ordinates on the image where the flood fill should be done, and c is the character that will be filled.
+
+Pixels are defined as contigious (touching) when they share at least one edge (pixels that only touch at corners aren't contigious).
+
+For example:

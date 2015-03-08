@@ -96,18 +96,18 @@ def value_gen(n):
     index, value = 0, n
     while True:
         yield value
-        print 'value is', value
+        
         if value == results[-1]:
             index += 1
             value = n * results[index]
 
 gens = [value_gen(primes) for primes in (2,3,5,7,11,13,17,19)]
 
-for i in xrange(999999):
+for i in xrange(99):
     results.append(min(gen.next() for gen in gens))
-    print 'results are', results
+   
 
-# print results[-1]
+print results[-1]
 
     # limit = 1000000
     # prime_List = []

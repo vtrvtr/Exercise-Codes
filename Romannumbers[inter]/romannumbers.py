@@ -24,11 +24,13 @@ class RomanNumbers(object):
 def DecomposeNumber(numbers):
 
     bigNumberList = []
+
     for item in numbers:
-        numbersList = []
         if item > 4000:
-            pass
+            print 'Numero maximo 3999!'
+            break
         else:
+            numbersList = []
             while (item - 1000 >= 0):
                 numbersList.append(1000)
                 item -= 1000
@@ -68,33 +70,29 @@ def DecomposeNumber(numbers):
             while (item - 1 >= 0):
                 numbersList.append(1)
                 item -= 1
-        bigNumberList.append(numbersList)
+            bigNumberList.append(numbersList)
     return bigNumberList
 
 
 def convertToRoman(numbers):
-    
+
     listOfLists = []
     for numbersList in numbers:
-    	convertedList = []
+        convertedList = []
         for number in numbersList:
             sign = RomanNumbers(number).toRoman()
             convertedList.append(sign)
-	listOfLists.append(convertedList)
+        listOfLists.append(convertedList)
     return listOfLists
 
 
-def test():
+if __name__ == "__main__":
+    input1 = raw_input("Escreva os numeros a serem convertidos \n")
+    try:
+        converted_numbers = DecomposeNumber(map(int, input1.split()))
+        for _ in convertToRoman(converted_numbers):
+            print ''.join(_)
+    except ValueError:
+        print "Somente numeros maiores que 0 sao aceitos!"
 
-    # print a.toRoman()
-    a = DecomposeNumber([1345, 2, 452, 42, 3234, 2341, 1113, 231, 111])
-    print a
-    # for item in convertToRoman(a):
-    # 	print ''.join(item)
-    a = 3543
-    b = str(a)
-    c = map(lambda d: 10 ** d, range(len(b))[::-1])
-
-    for n in zip(map(int, b), c):
-        print n
-test()
+    

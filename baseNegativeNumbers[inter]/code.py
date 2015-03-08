@@ -7,15 +7,11 @@ def negativeMod(number, base):
 
 def baseConversion(number, base):
     converted = []
-    #test = number - (number // base * base) 
+    #test = number - (number // base * base)
     while number >= 1:
         number, quot = divmod(number, base)
-        converted.insert(0,quot)
+        converted.insert(0, quot)
     return ''.join(str(x) for x in converted)
-
-
-
-
 
 
 print baseConversion(100312311242, 20)
@@ -45,5 +41,3 @@ print baseConversion(100312311242, 20)
 
 11001000
 11001000'''
-
-
