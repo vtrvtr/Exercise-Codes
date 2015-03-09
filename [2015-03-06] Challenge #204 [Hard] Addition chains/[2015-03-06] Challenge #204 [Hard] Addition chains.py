@@ -9,9 +9,10 @@ def construct_chain(chain, finalN):
 def fine_tunnint(chain, finalN):
     rest = finalN - chain[-1]
     while chain[-1] < finalN:
+        print chain
         print rest
         for n in reversed(chain):
-            if n < rest:
+            if n < rest and chain[-1] + n < finalN:
                 rest = n
                 chain.append(n + chain[-1])
                 break
