@@ -1,6 +1,6 @@
  # [2015-03-09] Challenge #205 [Easy] Friendly Date Ranges
 
-ipt = '2018-07-02 2015-07-04 DMY'
+ipt = '2018-07-22 2015-07-04 DMY'
 month_dict = {
     '01': 'January',
     '02': 'February',
@@ -16,18 +16,25 @@ month_dict = {
     '12': 'December',
 }
 day_dict = {
-    '1': 'st',
-    '2': 'nd',
-    '3': 'rd',
+    1: 'st',
+    2: 'nd',
+    3: 'rd',
+    4: 'th',
 }
 
 
 def beautiful_dates(date, month_dict, day_dict):
     first_date, second_date, mode = [w1.split('-') for w1 in date.split()]
-    return '{} {} {}, {} {} {}'.format(day_dict[first_date[2]] if first_date[2] in day_dict.keys() else first_date[2],
-                                       month_dict[first_date[1]], first_date[
-                                           0] if first_date[0] != second_date[0] else '',
-                                       day_dict[second_date[2]] if second_date[
-                                           2] in day_dict.keys() else second_date[2],
-                                       month_dict[second_date[1]], second_date[0] if second_date[0] != first_date[0] else '')
+
+    return fix_date(first_date, day_dict, month_dict), fix_date(second_date, day_dict, month_dict)
+
+
+
+def fix_date(date, day_dict, month_dict):    
+    year = date[0]
+    month = date[1]
+    # day = date[2][1] if date[2][0] == '0' else date[2]
+    day = int(date[2])
+    return [month_dict[month], '{}{}'.format(day, day_dict[day] if day <= 4 else day_dict[day%4]), year]
+
 print beautiful_dates(ipt, month_dict, day_dict)
