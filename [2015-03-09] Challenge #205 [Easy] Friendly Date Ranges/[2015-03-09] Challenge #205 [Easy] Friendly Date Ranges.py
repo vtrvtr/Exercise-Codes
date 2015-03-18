@@ -33,6 +33,10 @@ def beautiful_dates(date, month_dict, day_dict):
     first_date, second_date, mode = [w1.split('-') for w1 in date.split()]
     month1, day1, year1 = fix_date(first_date, day_dict, month_dict)
     month2, day2, year2 = fix_date(second_date, day_dict, month_dict)
+    if (month1 == month2) and (year1 == year2):
+        year2 = ''
+    elif year1 == year2:
+        year1 = ''
     return '{} {}{} - {} {}{}{}'.format(month1, day1, ', ' + year1 if year1 != year2 else '',
                                         month2 if month2 != month1 else '', day2, ', ' + year2 if year2 != year1 else '',
                                          ', ' + year2 if year2 == year1 else '')
