@@ -22,4 +22,9 @@ def parser(notation):
     _ = re.split("([)(+-/*])", notation.replace(" ", ""))
     return [part for part in _ if part is not '']
 
-print parser(single_notations2[7])
+def isnumber(piece):
+    return True if piece not in '()\+-*' else False 
+
+
+
+print isnumber('*')
