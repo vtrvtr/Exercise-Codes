@@ -1,12 +1,13 @@
  # [2015-03-18] Challenge #206 [Intermediate] Maximizing Crop Irrigation
 from tabulate import tabulate
-grid = '''.x.
-..x'''
+grid = '''..xx
+x...
+x...'''
 
 
 class Grid():
 
-    def __init__(self, height, width, grid):
+    def __init__(self, width, height, grid):
         self.height = height
         self.width = width
         self.grid = [[token for token in line] for line in grid.split()]
@@ -28,15 +29,21 @@ class Grid():
 
     def count_crops(self):
         crops = 0
-        circle_center = (self.x, self.y)
-        for token in self.grid[self.x][self.y:self.y+self.circle.radius+1]:
-            if token is 'x':
-                crops += 1
-        print self.grid[self.circle.radius][self.y]
-        for token in self.grid[self.x][self.y]:
-            if token is 'x':
-                crops += 1
+        known_crops = []
+        for i, row in enumerate(self.grid):
+            for j, item in enumerate(row):
+                if item is 'x':
+                    if i - self.y >= 0 and ((i, j) not in known_crops):
+                        crops += 1
+                        known_crops.append((i, j))
+                    elif j - self.y >= 0 and ((i, j) not in known_crops):
+                        crops += 1
+                        known_crops.append((i, j))
+                    elif (j + self.y >= 0) and (i + self.x >= 0) and (i, j) not in known_crops:
+                        crops += 1
+                        known_crops.append((i, j))
         return crops
+
 
 class Circle():
 
@@ -46,17 +53,16 @@ class Circle():
     def __str__(self):
         return str('Radius: {}'.format(self.radius))
 
-a = Grid(2, 3, grid)
+a = Grid(len(grid), len(grid[0]), grid)
+print len(grid)
 b = Circle(1)
 
 
 # print a
 # print b.radius
-a.place_circle(b, [1,1])
-print a 
+a.place_circle(b, [2, 1])
+print a
 # print a.circle_pos()
 # print a.circle
 print a.count_crops()
 
-
-    
