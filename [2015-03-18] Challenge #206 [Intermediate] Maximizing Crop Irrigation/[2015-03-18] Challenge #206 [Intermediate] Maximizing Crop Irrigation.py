@@ -29,9 +29,12 @@ class Grid():
     def count_crops(self):
         crops = 0
         circle_center = (self.x, self.y)
-        for token in grid[self.x:]:
-            print token
-            if token is '*':
+        for token in self.grid[self.x][self.y:self.y+self.circle.radius+1]:
+            if token is 'x':
+                crops += 1
+        print self.grid[self.circle.radius][self.y]
+        for token in self.grid[self.x][self.y]:
+            if token is 'x':
                 crops += 1
         return crops
 
@@ -44,15 +47,15 @@ class Circle():
         return str('Radius: {}'.format(self.radius))
 
 a = Grid(2, 3, grid)
-b = Circle(3)
+b = Circle(1)
 
 
-print a
-print b.radius
-a.place_circle(b, [0,1])
+# print a
+# print b.radius
+a.place_circle(b, [1,1])
 print a 
-print a.circle_pos()
-print a.circle
+# print a.circle_pos()
+# print a.circle
 print a.count_crops()
 
 
